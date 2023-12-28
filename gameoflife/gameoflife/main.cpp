@@ -1,7 +1,7 @@
-#include "Life.h"
+#include "Life.h" // наша библиотека
 
 int main() {
-	Life game;
-	game.runLife();
+	Life game; // пердоставляет игру
+	game.runLife(); // запуск игру
 	return 0;
 }
